@@ -1,0 +1,29 @@
+body{
+    background-color: #e4f9f5;
+    text-align: center;
+    margin: 100px;
+    
+    font-family: 'Staatliches', cursive;
+}
+h1{
+    width: auto;
+    margin: 0 auto;
+    font-family: 'Pacifico', cursive;
+    font-size: 300%;
+    
+}
+.topcloud{
+    position: relative;
+    left: 300px;
+}
+.bottomcloud{
+    position: absolute;
+   
+}
+.profile{
+    font-family: 'Playfair Display', serif; 
+
+}
+.skills{
+    pos
+}
